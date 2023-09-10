@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Client test</title>
+</head>
+<body>
+	<select name="ticketType" id="ticketType">
+		<option value="soccerrs-1">Prematch</option>
+		<option selected value="soccerrs-2">Live</option>
+		<option value="soccerrs-3">Mix</option>
+		<option value="soccerrs-4">Outright</option>
+	  </select>
+	<button onclick="subscribeOnTickets()">Subscribe on tickets</button>
+	<button onclick="unsubscribeFromTickets()">Unsubscribe from tickets</button>
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/6.0.1/signalr.js"></script>-->
+<script src="./signalr.js"></script>
+
+<script>
+	const connection = new signalR.HubConnectionBuilder()
+		.withUrl("http://localhost:5066/hubs/tickets")
+		.configureLogging(signalR.LogLevel.Information)
+		.build();
+
+	async function start() {
+		try {
+			await connection.start();
+			console.log("SignalR Connected.");
+		} catch (err) {
+			console.log(err);
+			setTimeout(start, 5000);
+		}
+	};
+
+	connection.onclose(async () => {
+		await start();
+	});
+	
+	connection.on("TicketChange", (message) => {
+		console.log('TicketChange: ' + JSON.stringify(message))
+	});
+
+	connection.on("AllTicketsForType", (message) => {
+		console.log('AllTicketsForType: ' + JSON.stringify(message))
+		/*let data = JSON.parse(message)
+		for(let ticket of data){
+			console.log(ticket.PayinTime)
+		}*/
+	});
+	
+	document.addEventListener("DOMContentLoaded", () => {
+		console.log("Start the connection.");
+		start();
+	});
+
+	async function subscribeOnTickets() {
+		try {
+			console.log('subscribeOnTickets pressed');
+			let val = document.getElementById("ticketType").value;
+			await connection.invoke("SubscribeOnTickets", val);
+		} catch (err) {
+			console.error(err);
+		}
+	}
+
+	async function unsubscribeFromTickets() {
+		try {
+			console.log('unsubscribeFromTickets pressed');
+			let val = document.getElementById("ticketType").value;
+			await connection.invoke("UnsubscribeFromTickets", val);
+		} catch (err) {
+			console.error(err);
+		}
+	}
+</script>
+</body>
+</html>

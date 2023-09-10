@@ -1,0 +1,24 @@
+C:\New folder\SB.Tickets\SB.Tickets.Import.Models\bin\Debug\net6.0\SB.Tickets.Import.Models.deps.json
+C:\New folder\SB.Tickets\SB.Tickets.Import.Models\bin\Debug\net6.0\SB.Tickets.Import.Models.dll
+C:\New folder\SB.Tickets\SB.Tickets.Import.Models\bin\Debug\net6.0\SB.Tickets.Import.Models.pdb
+C:\New folder\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.csproj.AssemblyReference.cache
+C:\New folder\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.AssemblyInfoInputs.cache
+C:\New folder\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.AssemblyInfo.cs
+C:\New folder\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.csproj.CoreCompileInputs.cache
+C:\New folder\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.dll
+C:\New folder\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\refint\SB.Tickets.Import.Models.dll
+C:\New folder\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.pdb
+C:\New folder\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\ref\SB.Tickets.Import.Models.dll
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Import.Models\bin\Debug\net6.0\SB.Tickets.Import.Models.deps.json
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Import.Models\bin\Debug\net6.0\SB.Tickets.Import.Models.dll
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Import.Models\bin\Debug\net6.0\SB.Tickets.Import.Models.pdb
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.csproj.AssemblyReference.cache
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.AssemblyInfoInputs.cache
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.AssemblyInfo.cs
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.csproj.CoreCompileInputs.cache
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.dll
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\refint\SB.Tickets.Import.Models.dll
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\SB.Tickets.Import.Models.pdb
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Import.Models\obj\Debug\net6.0\ref\SB.Tickets.Import.Models.dll

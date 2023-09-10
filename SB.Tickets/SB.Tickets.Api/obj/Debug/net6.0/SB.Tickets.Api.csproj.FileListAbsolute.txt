@@ -1,0 +1,50 @@
+C:\New folder\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\New folder\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\appsettings.json
+C:\New folder\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Api.exe
+C:\New folder\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Api.deps.json
+C:\New folder\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Api.runtimeconfig.json
+C:\New folder\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Api.dll
+C:\New folder\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Api.pdb
+C:\New folder\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\New folder\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Import.Models.dll
+C:\New folder\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Import.Models.pdb
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.csproj.AssemblyReference.cache
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.AssemblyInfoInputs.cache
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.AssemblyInfo.cs
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.csproj.CoreCompileInputs.cache
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\scopedcss\bundle\SB.Tickets.Api.styles.css
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.csproj.CopyComplete
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.dll
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\refint\SB.Tickets.Api.dll
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.pdb
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.genruntimeconfig.cache
+C:\New folder\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\ref\SB.Tickets.Api.dll
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Api.exe
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Api.deps.json
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Api.runtimeconfig.json
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Api.dll
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Api.pdb
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Import.Models.dll
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\bin\Debug\net6.0\SB.Tickets.Import.Models.pdb
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.csproj.AssemblyReference.cache
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.AssemblyInfoInputs.cache
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.AssemblyInfo.cs
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.csproj.CoreCompileInputs.cache
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\scopedcss\bundle\SB.Tickets.Api.styles.css
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.csproj.CopyComplete
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.dll
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\refint\SB.Tickets.Api.dll
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.pdb
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\SB.Tickets.Api.genruntimeconfig.cache
+C:\Users\marko.milosevic\Desktop\SB.Tickets\SB.Tickets.Api\obj\Debug\net6.0\ref\SB.Tickets.Api.dll
