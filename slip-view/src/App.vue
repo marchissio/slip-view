@@ -119,7 +119,7 @@ export default {
 
 body {
   /* background: url("https://wallpapers.com/images/hd/aesthetically-pleasing-royal-wallpaper-por6uarznxxhtub7.jpg"); */
-  background: url("./assets/img/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product.jpg");
+  background: url("./assets/img/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position-y: -21px;

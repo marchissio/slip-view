@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1244122,
+    "amount": 1000,
+    "date": "2023-05-08 12:23:12",
+    "odds": 24.0,
+    "source": "web",
+    "tip": "live",
+    "lines": [
+      {
+        "id": 100000,
+        "odd": 2.0,
+        "domacin": "Croydon Kings",
+        "gost": "Blue Eagles",
+        "tip": "KI 1"
+      },
+      {
+        "id": 100001,
+        "odd": 12.0,
+        "domacin": "Zurich",
+        "gost": "Will",
+        "tip": "KI 1"
+      }
+    ],
+    "username": "pera"
+  },
+  {
+    "id": 1244122,
+    "amount": 1000,
+    "date": "2023-05-08 12:23:12",
+    "odds": 24.0,
+    "source": "web",
+    "tip": "live",
+    "lines": [
+      {
+        "id": 100000,
+        "odd": 2.0,
+        "domacin": "Croydon Kings",
+        "gost": "Blue Eagles",
+        "tip": "KI 1"
+      },
+      {
+        "id": 100001,
+        "odd": 12.0,
+        "domacin": "Zurich",
+        "gost": "Will",
+        "tip": "KI 1"
+      }
+    ],
+    "username": "pera"
+  },
+  {
+    "id": 1244122,
+    "amount": 1000,
+    "date": "2023-05-08 12:23:12",
+    "odds": 24.0,
+    "source": "web",
+    "tip": "live",
+    "lines": [
+      {
+        "id": 100000,
+        "odd": 2.0,
+        "domacin": "Croydon Kings",
+        "gost": "Blue Eagles",
+        "tip": "KI 1"
+      },
+      {
+        "id": 100001,
+        "odd": 12.0,
+        "domacin": "Zurich",
+        "gost": "Will",
+        "tip": "KI 1"
+      }
+    ],
+    "username": "pera"
+  },
+  {
+    "id": 1244123,
+    "amount": 500,
+    "date": "2023-06-01 18:45:23",
+    "odds": 10.0,
+    "source": "web",
+    "tip": "mix",
+    "lines": [
+      {
+        "id": 100002,
+        "odd": 2.5
+      },
+      {
+        "id": 100003,
+        "odd": 4.0
+      }
+    ],
+    "username": "john"
+  },
+  {
+    "id": 1244124,
+    "amount": 1500,
+    "date": "2023-05-15 09:10:05",
+    "odds": 18.0,
+    "source": "retail",
+    "tip": "mix",
+    "lines": [
+      {
+        "id": 100004,
+        "odd": 3.0
+      },
+      {
+        "id": 100005,
+        "odd": 6.0
+      }
+    ],
+    "username": "emma"
+  },
+  {
+    "id": 1244125,
+    "amount": 800,
+    "date": "2023-06-03 14:30:19",
+    "odds": 16.0,
+    "source": "retail",
+    "tip": "live",
+    "lines": [
+      {
+        "id": 100006,
+        "odd": 2.0
+      },
+      {
+        "id": 100007,
+        "odd": 8.0
+      }
+    ],
+    "username": "jack"
+  },
+  {
+    "id": 1244126,
+    "amount": 2000,
+    "date": "2023-05-18 20:55:57",
+    "odds": 30.0,
+    "source": "web",
+    "lines": [
+      {
+        "id": 100008,
+        "odd": 5.0
+      },
+      {
+        "id": 100009,
+        "odd": 6.0
+      }
+    ],
+    "username": "sarah"
+  },
+  {
+    "id": 1244127,
+    "amount": 1200,
+    "date": "2023-05-12 17:15:40",
+    "odds": 48.0,
+    "source": "web",
+    "lines": [
+      {
+        "id": 100010,
+        "odd": 8.0
+      },
+      {
+        "id": 100011,
+        "odd": 6.0
+      }
+    ],
+    "username": "mike"
+  },
+  {
+    "id": 1244128,
+    "amount": 300,
+    "date": "2023-05-25 11:40:32",
+    "odds": 2.0,
+    "source": "retail",
+    "lines": [
+      {
+        "id": 100012,
+        "odd": 1.0
+      },
+      {
+        "id": 100013,
+        "odd": 2.0
+      }
+    ],
+    "username": "lisa"
+  }
+]
